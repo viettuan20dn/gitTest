@@ -1,6 +1,2 @@
 Hello world. I'm Tuan. I'm 22.
-<<<<<<< HEAD
 I don't know about you.
-=======
-Tonight, i will be supper
->>>>>>> eae1693036fbc86acec24fb37d31eb0229def323
